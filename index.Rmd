@@ -6,10 +6,10 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## [ABOUT ME](./about-me) | [CV](./about-me/Fearn_CV.pdf) | [BIOL-3100-Final-Project](./BIOL-3100-Final)##
+## [ABOUT ME](./about-me) | [CV](./about-me/Heaton_CV.pdf) | [BIOL-3100-Final-Project](./BIOL-3100-Final)##
 
-# **Tayler Fearn - Bioinformatician** #
-
+# **Annabelle Heaton** #
+This website displays work done on a research project for Data Analysis for Biologists. 
 ```{r, out.width="60%", echo=FALSE}
 knitr::include_graphics("./media/prof_portrait.jpg")
 ```
