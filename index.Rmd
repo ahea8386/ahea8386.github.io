@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # **Annabelle Heaton** #
 This website displays work done on a research project for Data Analysis for Biologists. 
 ```{r, out.width="60%", echo=FALSE}
-knitr::include_graphics("./media/prof_portrait.jpg")
+knitr::include_graphics("./media/landscape.jpg")
 ```
 
 
